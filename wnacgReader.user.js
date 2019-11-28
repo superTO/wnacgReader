@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         wnacgReader
-// @version      2.1.1
+// @version      3.0.0
 // @description  https://wnacg.org/photos-index* replace -index- to -slide-
 // @author       Adokun
 // @include      /^https?:\/\/w*\.?wnacg\.[a-z]*\/photos-index*/
