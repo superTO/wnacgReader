@@ -19,3 +19,6 @@ Chrome 請先安裝 [Tampermonkey](https://chrome.google.com/webstore/detail/tam
 Firefox 請先安裝 GreaseMonkey
 
 [腳本展示網址](https://sleazyfork.org/zh-TW/scripts/392288-wnacgreader)
+
+
+[Install](https://github.com/superTO/wnacgReader/raw/master/wnacgReader.user.js)
